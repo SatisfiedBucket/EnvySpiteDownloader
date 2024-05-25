@@ -1,10 +1,12 @@
-{
-  "Levels": [
-    {
-      "Name": "All At Once",
-      "Author": "thebluenebula",
-      "id": "1",
-      "downloadpath": "wip"
-    }
-  ]
-}
+[
+  {
+    "name": "All at Once",
+    "author": "thebluenebula",
+    "description": "Description1"
+  },
+  {
+    "name": "Testlevel",
+    "value": "boo",
+    "description": "Description2"
+  }
+]
