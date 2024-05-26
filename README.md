@@ -1,4 +1,5 @@
 # EnvySpiteDownloader
 Downloader for Envy and Spite levels without using Discord.
 
-CURRENTLY IN DEVELOPMENT AND NOT YET RELEASED. ANYTHING SHOWN IN THE REPOSITORY IS FOR TESTING ONLY.
+The unoffical level downloader for Envy and Spite is here!
+Just select your plugin install and the rest is done for you!
