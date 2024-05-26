@@ -36,7 +36,7 @@
     "version": "V1.0"
   },
   {
-    "name": "WHERE THE FUCK IS THE BATHROOM",
+    "name": "WTFITB",
     "author": "thebluenebula",
     "img": "https://i.imgur.com/mnVNlJj.png",
     "url": "https://spyderrock.com/negC3427-wtfitb.doomah",
@@ -68,8 +68,25 @@
     "img": "https://i.imgur.com/HzC10eG.png",
     "url": "https://spyderrock.com/rM9e6776-osakaland1.doomah",
     "id": "8",
-    "moreinfo": "The first map to be made, playing this is like eating a popsicle made of redbull and crack cocaine. this level is sort of a tree of evolution for all of spite, as it spans every single version.
- (this was not uploaded by lakeull and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
+    "moreinfo": "The first map to be made, playing this is like eating a popsicle made of redbull and crack cocaine. this level is sort of a tree of evolution for all of spite, as it spans every single version. (this was not uploaded by lakeull and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
     "version": "V1.32"
+  },
+  {
+    "name": "BATIM Chapter 2 (LAGGY)",
+    "author": "Forrestgamer",
+    "img": "https://i.imgur.com/LAGyYaH.png",
+    "url": "https://spyderrock.com/aZvc5711-bendych2.doomah",
+    "id": "9",
+    "moreinfo": "Felt like posting one of the Bendy levels I've made for Ultrakill Chapter Two is the most complete, there are some things that I still need to fix, but it's mostly functional There are no checkpoints because checkpoints don't work for me for some reason Also this level isn't really linear, so be sure to explore as much as possible if you want to kill all the enemies Let me know your thoughts (this was not uploaded by Forrestgamer and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
+    "version": "V1.0"
+  },
+  {
+    "name": "ULTRACRAFT (WIP)",
+    "author": "Theoyeah",
+    "img": "https://i.imgur.com/Ty5nvj2.png",
+    "url": "https://spyderrock.com/2SKL7677-ultracraft.doomah",
+    "id": "10",
+    "moreinfo": "A work in progress minecraft looking map featuring 4 parts in 1 level: plains, cave, nether and the end. At this time, only the plains section has been added.",
+    "version": "V0.1"
   }
 ]
