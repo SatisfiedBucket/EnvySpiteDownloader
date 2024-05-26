@@ -13,7 +13,7 @@
     "author": "funny.",
     "img": "https://i.imgur.com/d5xHGLo.png",
     "url": "https://spyderrock.com/gDnG5665-mymap.doomah",
-    "id": "3",
+    "id": "2",
     "moreinfo": "chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo chiyo",
     "version": "V1.0"
   },
@@ -22,16 +22,16 @@
     "author": "Banana Studio",
     "img": "https://i.imgur.com/LAGyYaH.png",
     "url": "https://spyderrock.com/mjKS2327-test.doomah",
-    "id": "4",
+    "id": "3",
     "moreinfo": "This is a test level to test the capabilities of Vanity. This map includes: every loader and editor, sisos and misiphus prime. And hakita himself",
     "version": "V1.0"
   },
   {
     "name": "destroy minos primes home",
     "author": "MCleaner",
-    "img": "https://i.imgur.com/LAGyYaH.png",
+    "img": "https://i.imgur.com/t6UDt2F.png",
     "url": "https://spyderrock.com/1Kxe9941-happyhome2.doomah",
-    "id": "5",
+    "id": "4",
     "moreinfo": "pretty hard, dont play on brutal (this was not uploaded by MCleaner and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
     "version": "V1.0"
   },
@@ -39,8 +39,8 @@
     "name": "WHERE THE FUCK IS THE BATHROOM",
     "author": "thebluenebula",
     "img": "https://i.imgur.com/mnVNlJj.png",
-    "url": "https://qiwi.gg/file/iDn64113-wtfitb",
-    "id": "6",
+    "url": "https://spyderrock.com/negC3427-wtfitb.doomah",
+    "id": "5",
     "moreinfo": "In this wacky situation, John V1 ULTRAKILL is tasked with finding the shitter as soon as possible. TLDR: Speedrun level.",
     "version": "V1.1"
   },
@@ -49,8 +49,27 @@
     "author": "Boyfr1end",
     "img": "https://i.imgur.com/2Tk4Khd.png",
     "url": "https://spyderrock.com/awUE0549-ssi.doomah",
-    "id": "7",
+    "id": "6",
     "moreinfo": "My attempt at making a closed space level. (this was not uploaded by Boyfr1end and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
     "version": "V1.0"
+  },
+  {
+    "name": "grid small pure ultrakill map",
+    "author": "Boyfr1end",
+    "img": "https://i.imgur.com/tWa8w8G.png",
+    "url": "https://spyderrock.com/reHs9176-gridsmallpure.doomah",
+    "id": "7",
+    "moreinfo": "funny sandbox map (dont mind the misspell) (this was not uploaded by Boyfr1end and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
+    "version": "V1.0"
+  },
+  {
+    "name": "Get the Golden Osaka",
+    "author": "lakeull",
+    "img": "https://i.imgur.com/HzC10eG.png",
+    "url": "https://spyderrock.com/rM9e6776-osakaland1.doomah",
+    "id": "8",
+    "moreinfo": "The first map to be made, playing this is like eating a popsicle made of redbull and crack cocaine. this level is sort of a tree of evolution for all of spite, as it spans every single version.
+ (this was not uploaded by lakeull and was instead uploaded by thebluenebula. originally uploaded in the envy and spite discord.)",
+    "version": "V1.32"
   }
 ]
