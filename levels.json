@@ -128,5 +128,15 @@
     "moreinfo": "tell this to everyone",
     "Difficulty": "4",
     "version": "V1.1"
+  },
+  {
+    "name": "VIOLENCE BONUS",
+    "author": "dalord",
+    "img": "https://i.imgur.com/UJEvImR.png",
+    "url": "https://spyderrock.com/7dDG6992-violencebonus1.doomah",
+    "id": "14",
+    "moreinfo": "Violence /// Bonus: Countdown To Extinction is a Violence-styled compilation level mainly featuring the enemies introduced in the layer. This level serves as a test of how skilled you are at ULTRAKILLing them. A fitting challenge for those willing to paint the world red. Requires Carcass.",
+    "Difficulty": "4",
+    "version": "V1.0.0"
   }
 ]
