@@ -1,1 +1,1 @@
-new motd
+yet another motd
