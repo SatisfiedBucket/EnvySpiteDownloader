@@ -1,1 +1,1 @@
-Now featuring <color=#ff09f0>Magenta</color>!
+<color=red>help</color>
