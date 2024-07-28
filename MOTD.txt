@@ -1,1 +1,1 @@
-another motd
+testing for motd reply
