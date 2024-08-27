@@ -1,12 +1,13 @@
 [
   {
-    "name": "Example Level",
+    "name": "All at Once",
+    "description": "A boss rush level including every single boss (and some non-boss enemies!) in the game.";
     "author": "thebluenebula",
     "img": "https://i.imgur.com/b03Ut5y.png",
     "url": "test for invalid download url protection",
     "id": "1",
-    "moreinfo": "This is a description for an example level with the online downloader! Hello!",
     "Difficulty": "1",
-    "version": "V1.0"
+    "version": "1.0.0",
+    "serious": "y"
   }
 ]
