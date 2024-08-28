@@ -4,10 +4,33 @@
         "description": "A boss rush level including every single boss (and some non-boss enemies!) in the game.",
         "author": "thebluenebula",
         "img": "https://i.imgur.com/b03Ut5y.png",
-        "url": "test for invalid download url protection",
-        "id": "1",
-        "Difficulty": "1",
+        "urls": [
+            "test for invalid download url protection"
+        ],
         "version": "1.0.0",
         "serious": true
+    },
+    {
+        "name": "Greybox",
+        "description": "A simple sandbox map.",
+        "author": "Alma(Spelar)",
+        "img": "https://i.imgur.com/LAGyYaH.png",
+        "urls": [
+            "https://github.com/Spelar1231/Spelar-Levels/raw/main/Greybox/sandbox.doomah.part1",
+            "https://github.com/Spelar1231/Spelar-Levels/raw/main/Greybox/sandbox.doomah.part2"
+        ],
+        "version": "1.0.0",
+        "serious": true
+    },
+    {
+        "name": "Fish Prime",
+        "description": "A funny fish that totally isn't a reskinned minos prime...",
+        "author": "triggeredidiot",
+        "img": "https://raw.githubusercontent.com/triggered0idiot/envyDL_levels/main/fish_prime/fishprime_real_thumb.jpg",
+        "urls": [
+            "https://github.com/triggered0idiot/envyDL_levels/raw/main/fish_prime/fishprime_real.doomah"
+        ],
+        "version": "1.0.0",
+        "serious": false
     }
 ]
