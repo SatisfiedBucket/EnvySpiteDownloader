@@ -24,7 +24,7 @@
     },
     {
         "name": "Fish Prime",
-        "description": "A funny fish that totally isn't a reskinned minos prime...",
+        "description": "A level with 8 custom bosses and 3 challenges",
         "author": "triggeredidiot",
         "img": "https://raw.githubusercontent.com/triggered0idiot/envyDL_levels/main/fish_prime/fishprime_real_thumb.jpg",
         "urls": [
@@ -32,5 +32,17 @@
         ],
         "version": "1.0.0",
         "serious": false
+    },
+    {
+        "name": "UltraFreaks",
+        "description": "A funny fish that totally isn't a reskinned minos prime...",
+        "author": "MCleaner",
+        "img": "https://github.com/MCabacab/UltraFreaks/blob/main/thumbnail.png?raw=true",
+        "urls": [
+            "https://github.com/MCabacab/UltraFreaks/raw/main/ultrafreaks.doomah.part1",
+            "https://github.com/MCabacab/UltraFreaks/raw/main/ultrafreaks.doomah.part2"
+        ],
+        "version": "1.0.0",
+        "serious": true
     }
 ]
