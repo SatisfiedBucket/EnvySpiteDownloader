@@ -8,8 +8,6 @@
         "id": "1",
         "Difficulty": "1",
         "version": "1.0.0",
-        "genres": {
-            "serious": true
-        }
+        "serious": true
     }
 ]
