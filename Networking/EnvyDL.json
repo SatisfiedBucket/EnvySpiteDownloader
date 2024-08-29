@@ -5,7 +5,7 @@
         "author": "thebluenebula",
         "img": "https://i.imgur.com/b03Ut5y.png",
         "urls": [
-            "test for invalid download url protection"
+            "test for invalid download url protection, hi triggered"
         ],
         "version": "1.0.0",
         "serious": true
