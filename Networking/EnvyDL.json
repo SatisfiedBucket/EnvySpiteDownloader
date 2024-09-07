@@ -7,6 +7,9 @@
         "urls": [
             "test for invalid download url protection, hi triggered"
         ],
+        "scripthashes": [
+            null,
+        ],
         "version": "1.0.0",
         "serious": true
     },
@@ -19,6 +22,9 @@
             "https://github.com/Spelar1231/Spelar-Levels/raw/main/Greybox/sandbox.doomah.part1",
             "https://github.com/Spelar1231/Spelar-Levels/raw/main/Greybox/sandbox.doomah.part2"
         ],
+        "scripthashes": [
+            null,
+        ],
         "version": "1.0.0",
         "serious": true
     },
@@ -29,6 +35,9 @@
         "img": "https://raw.githubusercontent.com/triggered0idiot/envyDL_levels/main/fish_prime/fishprime_real_thumb.jpg",
         "urls": [
             "https://github.com/triggered0idiot/envyDL_levels/raw/main/fish_prime/fishprime_real.doomah"
+        ],
+        "scripthashes": [
+            null,
         ],
         "version": "1.0.0",
         "serious": false
@@ -41,6 +50,9 @@
         "urls": [
             "https://github.com/MCabacab/UltraFreaks/raw/main/ultrafreaks.doomah.part1",
             "https://github.com/MCabacab/UltraFreaks/raw/main/ultrafreaks.doomah.part2"
+        ],
+        "scripthashes": [
+            null,
         ],
         "version": "1.0.0",
         "serious": true
