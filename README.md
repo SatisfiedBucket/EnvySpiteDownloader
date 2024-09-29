@@ -1,4 +1,4 @@
-# EnvyDL (UNDER MAINTENANCE)
+# EnvyDL (& now MOTDs!)
 Downloader for Envy and Spite levels without using Discord.
 
 The offical (once was unoffical) level downloader for Envy and Spite!
