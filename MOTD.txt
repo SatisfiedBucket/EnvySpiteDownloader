@@ -1,1 +1,1 @@
-Sometimes, I dream about cheese.
+/sv_cheats 1
