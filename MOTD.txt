@@ -1,1 +1,1 @@
-sudo rm -rf ./ --no-preserve-root
+You should delete system 32 (this is a joke you shouldn't delete system 32)
