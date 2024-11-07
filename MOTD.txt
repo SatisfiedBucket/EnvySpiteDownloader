@@ -1,1 +1,1 @@
-if a husk shoots at you, parry it back. relax angels, it's called the warmachine mindset.
+std::cout << "bro wtf" << std::endl;
