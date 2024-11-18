@@ -1,1 +1,1 @@
-Fun fact:
+Did you know a blender sphere with 4 billion verts will take around 30gb of ram
