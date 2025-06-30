@@ -1,1 +1,1 @@
-uhhhh insert motd here
+alert: 300 red circles are arriving to your location. you have THIRTY MINUTES left before you die!
