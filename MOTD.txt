@@ -1,1 +1,1 @@
-Im not gonna surrogat <#1232438863142846525> !
+> Fixed a server crash caused by Sniper trying to eat his gun
