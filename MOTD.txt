@@ -1,1 +1,1 @@
-glagglelands finest motd
+public string messageOfTheDay = "remember to fill this out later";
