@@ -1,1 +1,1 @@
-public string messageOfTheDay = "remember to fill this out later";
+Spite & Envy
