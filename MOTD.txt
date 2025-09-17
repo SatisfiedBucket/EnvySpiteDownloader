@@ -1,1 +1,1 @@
-Rock and stone
+Fun Fact : The intermissions between acts still use base unity "Text", instead of the more widely-used "TextMeshPro". Why? ion know
