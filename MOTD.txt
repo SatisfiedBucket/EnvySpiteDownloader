@@ -1,1 +1,3 @@
-the machines of war were brought to hell.... God cant we get help?
+In patch 13b the entirety of the agony level loading system is intact, so much so that if you have a .blood file you can use the C# Console in UnityExplorer to load a the file.
+
+In Masquerade Divinity v0.0.55 within the bundles folder of the plugin there is a "hallofegress.blood" file, first person to send me a picture of the level gets a hug.
