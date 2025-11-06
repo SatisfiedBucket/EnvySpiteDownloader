@@ -1,6 +1,1 @@
-*BEEP*
-Please leave a message after the tone.
-
-...
-
-*The tone*
+V1 is 100 meters from your location and rapidly approaching
